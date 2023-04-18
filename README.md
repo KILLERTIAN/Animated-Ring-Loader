@@ -4,6 +4,8 @@ This loader is made with help of Uiverse.io
 
 Links: https://killertian.github.io/Animated-Ring-Loader/
 
+Preview:
+
 # Licence 
 MIT License
 

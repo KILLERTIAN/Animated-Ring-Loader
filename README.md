@@ -6,6 +6,13 @@ Webpage Link :- https://killertian.github.io/Animated-Ring-Loader/
 
 Preview:
 
+![image](https://user-images.githubusercontent.com/77867638/236294234-7058c951-64c1-484d-a153-dc3a3d042338.png)
+![image](https://user-images.githubusercontent.com/77867638/236294359-272718f2-8c9c-43de-9b12-e6d4747323c7.png)
+![image](https://user-images.githubusercontent.com/77867638/236294484-80a198ee-a178-409c-9a1f-f65ea88c20c7.png)
+
+
+
+
 # Licence 
 MIT License
 
